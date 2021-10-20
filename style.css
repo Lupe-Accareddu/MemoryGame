@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #A0E7E5;
+}
+h1{
+    font-size: 600;
+    font-weight: bold;
+    color:#f3d7dc;
+}
+
+h3{
+    font-size: 400;
+    font-weight: bold;
+    color: #FFAEBC;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 400px;
+    background-color: #FBE7C6;
+    border: solid 4px #B4F8C8;
+}
